@@ -1,0 +1,46 @@
+PODS:
+  - Kingfisher (5.15.6):
+    - Kingfisher/Core (= 5.15.6)
+  - Kingfisher/Core (5.15.6)
+  - ObjectMapper (4.2.0)
+  - Realm (10.1.0):
+    - Realm/Headers (= 10.1.0)
+  - Realm/Headers (10.1.0)
+  - RealmSwift (10.1.0):
+    - Realm (= 10.1.0)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+
+DEPENDENCIES:
+  - Kingfisher
+  - ObjectMapper
+  - RealmSwift
+  - RxCocoa
+  - RxSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Kingfisher
+    - ObjectMapper
+    - Realm
+    - RealmSwift
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Kingfisher: b3554e7bf6106115b44e8795300bad580ef2fdc7
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  Realm: 100df88a0faf5328f48477427e4b3e1a1598bae3
+  RealmSwift: 725d1c10df64964b04aaa0058c19ce0f4b4c3f5a
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+
+PODFILE CHECKSUM: 3365c7dce6b079fc31db30ab575e2be9aa2561b6
+
+COCOAPODS: 1.7.0
